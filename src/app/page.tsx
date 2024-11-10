@@ -177,8 +177,8 @@ function home() {
       height={200}
      alt='resume'
 />
-<h1 className='text-center font-bold text-xl py-2'>editable dynamic  Resum builder </h1>
-  <p className='text-center font-normal text-lg py-2'>A simple Resume builder using typescript </p>
+<h1 className='text-center font-bold text-xl py-2'>Editable dynamic  Resum builder </h1>
+  <p className='text-center font-normal text-lg py-2'>A simple editable Resume builder using typescript </p>
   <a href='https://github.com/asmabibi97/hackathon-milestone5-by-asma-bibi' target="_blank" rel="noopener noreferrer">
   <button className='text-center bg-purple-500 text-white py-2 px-4 flex items-center rounded text-lg'>click here</button>
   </a>
