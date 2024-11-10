@@ -16,7 +16,7 @@ function home() {
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Building Creative 
         <br className="hidden lg:inline-block"/> <p>& Functional Web Experiences</p>
       </h1>
-      <p className="mb-8 leading-relaxed">Hi, I &#34;m Asma Bibi, A passionate web developer with a knack for crafting visually stunning, user-friendly websites. I specialize in turning creative ideas into fully responsive, dynamic web applications that not only look great but also provide a seamless user experience. Whether you need a personal portfolio, a robust e-commerce platform, or a custom web solution, I'm here to bring your vision to life with clean code and modern design.</p>
+      <p className="mb-8 leading-relaxed">Hi, I &#34;m Asma Bibi, A passionate web developer with a knack for crafting visually stunning, user-friendly websites. I specialize in turning creative ideas into fully responsive, dynamic web applications that not only look great but also provide a seamless user experience. Whether you need a personal portfolio, a robust e-commerce platform, or a custom web solution, I&apos;m here to bring your vision to life with clean code and modern design.</p>
       <div className="flex justify-center">
       <a href="https://github.com/asmabibi97" target="_blank" rel="noopener noreferrer">
       <button className="inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">View my work</button>
@@ -49,7 +49,7 @@ function home() {
         </div>
         <div className="flex-grow">
           <h2 className="text-white text-lg title-font font-medium mb-3">Custom & Responsive Design</h2>
-          <p className="leading-relaxed text-base">Every project I build is tailored to your specific needs and optimized for all devices. Whether it's a sleek mobile interface or a detailed desktop layout, I ensure your website provides a seamless experience across screens.</p>
+          <p className="leading-relaxed text-base">Every project I build is tailored to your specific needs and optimized for all devices. Whether it&apos;s a sleek mobile interface or a detailed desktop layout, I ensure your website provides a seamless experience across screens.</p>
           <a className="mt-3 text-indigo-400 inline-flex items-center">Learn More
             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
               <path d="M5 12h14M12 5l7 7-7 7"></path>
