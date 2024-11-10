@@ -1,11 +1,17 @@
 import Link from 'next/link'
+import Image from 'next/image'
+import logo from '../../public/Images/logo.png'
+
+
 export default function Header(){
   return(
     <div className='main flex justify-around items-center bg-blue-900 h-20 '>
       <div className="log0 flex items-centre flex-wrap justify-center b">
-     <img
-     src="https://image.similarpng.com/very-thumbnail/2021/09/AB-abstract-logo-design-on-transparent-background-PNG.png"
+     <Image
+     src="/images/logo.png"
      alt="logo"
+     width={300}
+     height={300}
      className='w-10 h-10'
      />
      <span className="ml-4 mt-3 items-center text-white">ASMA memon</span>

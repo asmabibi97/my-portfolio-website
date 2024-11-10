@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 function aboutus() {
   return (
@@ -6,9 +7,7 @@ function aboutus() {
       <section className="text-gray-400 bg-gray-900 body-font">
   <div className="container px-5 py-24 mx-auto flex flex-col">
     <div className="lg:w-4/6 mx-auto">
-      <div className="rounded-lg h-64 overflow-hidden">
-        <img alt="content" className="object-cover object-center h-full w-full" src="https://t3.ftcdn.net/jpg/07/52/08/12/360_F_752081227_nruXgif94zBL0Q4nYKNbrp0wQGvx6d6r.jpg"/>
-      </div>
+     
       <div className="flex flex-col sm:flex-row mt-10">
         <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
           <div className="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-800 text-gray-600">
